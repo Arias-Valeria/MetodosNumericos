@@ -1,0 +1,13 @@
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.csprojAssemblyReference.cache
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.AssemblyInfoInputs.cache
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.AssemblyInfo.cs
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.exe
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.deps.json
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.runtimeconfig.json
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.runtimeconfig.dev.json
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.dll
+C:\Users\Valeria\source\repos\ExamenParcial1\bin\Debug\netcoreapp3.1\ExamenParcial1.pdb
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.dll
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.pdb
+C:\Users\Valeria\source\repos\ExamenParcial1\obj\Debug\netcoreapp3.1\ExamenParcial1.genruntimeconfig.cache
